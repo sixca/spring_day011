@@ -1,2 +1,8 @@
-package com.kbstar.frame;public interface TV {
+package com.kbstar.frame;
+
+public interface TV {
+    public void turnOn();
+    public void turnOff();
+
+
 }
